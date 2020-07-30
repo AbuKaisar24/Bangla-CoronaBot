@@ -10,4 +10,4 @@
 https://bangla-coronabot.herokuapp.com/
 
 ## Image 
-image.jpg
+image.png
